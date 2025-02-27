@@ -1,16 +1,19 @@
-## Hi there 👋
+# Reece Nimo
 
-<!--
-**reecen9696/reecen9696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full-Stack Developer | UI/UX Designer
 
-Here are some ideas to get you started:
+### 🚀 Projects
+- **[Clutch.app](https://clutch.app/)** – P2E Web3 Casino (React, React Native, AWS)
+- **Stride** – Smart Orthotics & Gait Analysis (Next.js, Node.js, AWS)
+- **[DropBeast](https://www.dropbeast.xyz/)** – DeFi Airdrop Automation (ASP.NET Core, TypeScript, AWS)
+- **[RampX](#)** – Gas-Free DeFi Swap Interface (Next.js, Node.js, AWS)
+- **AI Subscription Apps** – Launched 2 AI-driven apps, 1K+ users (React Native, AWS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Front-End:** React, Next.js, Tailwind
+- **Back-End:** Node.js, AWS, MongoDB
+- **Mobile:** React Native (iOS & Android)
+- **Design:** Framer, Figma, Illustrator
+
+📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/reece-nimorakiotakis/)  
+🌍 **Check out more about me:** [reecebuilt.me](https://reecebuilt.me)
