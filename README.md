@@ -12,4 +12,4 @@
 - **Mobile:** React Native (iOS & Android)
 - **Design:** Framer, Figma, Illustrator
 
-📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/reece-nimorakiotakis/)  
+**Kinkedin:** [LinkedIn](https://www.linkedin.com/in/reece-nimorakiotakis/)  
